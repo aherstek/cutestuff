@@ -1,2 +1,2 @@
-# cutestuff
+# cutestuff.github.io
 hi :)
